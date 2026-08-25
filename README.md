@@ -32,10 +32,7 @@ Certifications prove you passed a test. This proves the work happened. Every sec
 *Three test users created in Microsoft Entra ID.*
 
 ![Groups list](screenshots/lab01-groups-list.png)
-*Two groups: `Cloud-Admins` (assigned) and `All-IT-Users` (dynamic).*
-
-![Dynamic group detail](screenshots/lab01-dynamic-group-detail.png)
-*Dynamic membership rule evaluated successfully — 2 members auto-populated with no manual assignment.*
+*Two groups: `Cloud-Admins` (assigned) and `All-IT-Users` (dynamic membership — rule evaluated successfully, 2 members auto-populated with no manual assignment).*
 
 ---
 
